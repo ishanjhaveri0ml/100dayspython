@@ -1,12 +1,12 @@
 [tool.poetry]
-name = "password-manager-end"
+name = "nato-alphabet-end"
 version = "0.1.0"
 description = ""
 authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
-pyperclip = "^1.8.0"
+pandas = "^1.0.5"
 
 [tool.poetry.dev-dependencies]
 
